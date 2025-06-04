@@ -7,6 +7,7 @@ import Resume from '@/app/components/Resume'
 import Portfolio from '@/app/components/Portfolio'
 import Services from '@/app/components/Services'
 import Contact from '@/app/components/Contact'
+import TechEvent from './components/TechEvent'
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
         <Resume />
         <Portfolio />
         <Services />
+        <TechEvent />
         <Contact />
       </div>
     </main>

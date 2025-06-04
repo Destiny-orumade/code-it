@@ -1,6 +1,6 @@
 export default function Services() {
   return (
-    <section id="services" className="p-8 bg-gray-100 dark:bg-gray-800 text-black dark:text-white">
+    <section id="services" className="p-8  bg-white dark:bg-gray-900 text-black dark:text-white">
       <h2 className="text-3xl font-bold mb-4">Services</h2>
       <ul className="space-y-4">
         <li>
