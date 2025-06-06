@@ -73,7 +73,7 @@ export default function Resume() {
       <div>
         <h3 className="text-xl font-semibold text-sky-200">Certifications</h3>
         <ul className="list-disc ml-6 text-gray-300">
-          <li>Frontend Developer Career Path — Genesy</li>
+          <li>Frontend Developer Career Path — Genesys</li>
             
         </ul>
 
