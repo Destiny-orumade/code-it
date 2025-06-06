@@ -13,7 +13,7 @@ export default function Hero() {
         <div>
           <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold text-white">
             <TypeAnimation
-              sequence={[ 'Hello and Welcome Dear ', 4000 , "  I'm Destiny Orumade " , 4000, " A Frontend Developer 👨‍💻", 4000,]}
+              sequence={[ 'Hello 🤚🏻 ', 4000 , "  I'm Destiny Orumade " , 4000, " A Frontend Developer 👨‍💻", 4000,]}
               wrapper="span"
               speed={40}
               style={{ display: 'inline-block' }}
